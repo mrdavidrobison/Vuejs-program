@@ -1,0 +1,19 @@
+{
+  "name": "vuejs-program",
+  "version": "1.0.0",
+  "description": "Vuejs-program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdavidrobison/Vuejs-program.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdavidrobison/Vuejs-program/issues"
+  },
+  "homepage": "https://github.com/mrdavidrobison/Vuejs-program#readme"
+}
